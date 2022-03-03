@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 100%;
+
+}
+
+.club-info{
+    width: 100%;
+}
+
+
+.club-info h2{
+    padding: 30px 230px 20px;
+    font-family: arial;
+    font-size: 50px;
+    color: #111;
+    line-height: 44px;
+}
+
+.club-info p{
+    padding: 0px 230px 20px;
+    font-family: arial;
+    font-size: 16px;
+    color: #111;
+    line-height: 20px;
+}
+
